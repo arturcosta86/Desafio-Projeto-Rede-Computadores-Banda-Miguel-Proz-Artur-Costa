@@ -12,7 +12,7 @@ O objetivo é criar uma rede local que conecte quatro computadores da equipe de 
 
 ## Topologia da Rede
 
-![Topologia da Rede](TOPOLOGIA - Projeto Rede de Computadores Banda Miguel - Proz - Artur Costa.png)
+![Topologia da Rede](TOPOLOGIA - Projeto Rede de Computadores Banda Miguel - Proz - Artur Costa.jpeg)
 
 A imagem acima ilustra a topologia da rede, com o switch no centro e os quatro PCs conectados a ele.
 
@@ -37,7 +37,7 @@ Os seguintes endereços IP foram atribuídos aos dispositivos:
 
 A comunicação entre os PCs foi testada utilizando o comando `ping`. Os resultados dos testes podem ser visualizados nas imagens abaixo:
 
-* [Ping do PC1 para o PC2,PC3 e PC4](PING - Projeto Rede de Computadores Banda Miguel - Proz - Artur Costa.png)
+* [Ping do PC1 para o PC2,PC3 e PC4](PING - Projeto Rede de Computadores Banda Miguel - Proz - Artur Costa.jpeg)
 
 ## Passos para Reproduzir o Projeto
 
