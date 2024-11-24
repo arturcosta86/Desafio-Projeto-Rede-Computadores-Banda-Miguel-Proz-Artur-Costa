@@ -12,13 +12,13 @@ O objetivo é criar uma rede local que conecte quatro computadores da equipe de 
 
 ## Topologia da Rede
 
-![Topologia da Rede](TOPOLOGIA - Projeto Rede de Computadores Banda Miguel - Proz - Artur Costa.jpeg)
+![Topologia da Rede](https://github.com/arturcosta86/Desafio-Projeto-Rede-Computadores-Banda-Miguel-Proz-Artur-Costa/blob/main/TOPOLOGIA%20-%20Projeto%20Rede%20de%20Computadores%20Banda%20Miguel%20-%20Proz%20-%20Artur%20Costa.jpeg)
 
 A imagem acima ilustra a topologia da rede, com o switch no centro e os quatro PCs conectados a ele.
 
 ## Arquivo Packet Tracer
 
-[Baixar arquivo Packet Tracer](Projeto Rede de Computadores Banda Miguel - Proz - Artur Costa.pkt)
+[Baixar arquivo Packet Tracer](https://github.com/arturcosta86/Desafio-Projeto-Rede-Computadores-Banda-Miguel-Proz-Artur-Costa/blob/main/Projeto%20Rede%20de%20Computadores%20Banda%20Miguel%20-%20Proz%20-%20Artur%20Costa.pkt)
 
 Este arquivo `.pkt` contém a configuração completa da rede no Cisco Packet Tracer.  Você pode abri-lo no Packet Tracer para visualizar e modificar a topologia e as configurações.
 
@@ -37,7 +37,7 @@ Os seguintes endereços IP foram atribuídos aos dispositivos:
 
 A comunicação entre os PCs foi testada utilizando o comando `ping`. Os resultados dos testes podem ser visualizados nas imagens abaixo:
 
-* [Ping do PC1 para o PC2,PC3 e PC4](PING - Projeto Rede de Computadores Banda Miguel - Proz - Artur Costa.jpeg)
+![Ping do PC1 para o PC2,PC3 e PC4](https://github.com/arturcosta86/Desafio-Projeto-Rede-Computadores-Banda-Miguel-Proz-Artur-Costa/blob/main/PING%20-%20Projeto%20Rede%20de%20Computadores%20Banda%20Miguel%20-%20Proz%20-%20Artur%20Costa.jpeg)
 
 ## Passos para Reproduzir o Projeto
 
