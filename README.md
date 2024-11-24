@@ -27,11 +27,21 @@ Este arquivo `.pkt` contém a configuração completa da rede no Cisco Packet Tr
 
 Os seguintes endereços IP foram atribuídos aos dispositivos:
 
-* **Switch (VLAN 1):** 192.168.1.1 / 255.255.255.0
-* **PC1:** 192.168.1.10 / 255.255.255.0
-* **PC2:** 192.168.1.20 / 255.255.255.0
-* **PC3:** 192.168.1.30 / 255.255.255.0
-* **PC4:** 192.168.1.40 / 255.255.255.0
+* **Switch:** Switch2 (2960-24TT)
+* **PC1:** Banda de Miguel - 01
+* **PC2:** Banda de Miguel - 02
+* **PC3:** Banda de Miguel - 03
+* **PC4:** Banda de Miguel - 04
+
+## Dispositivos da Rede
+
+| Dispositivo | Nome                 | Modelo (se aplicável) |
+|-------------|----------------------|-----------------------|
+| Switch      | Switch2              | 2960-24TT             |
+| PC 1        | Banda de Miguel - 01 |                       |
+| PC 2        | Banda de Miguel - 02 |                       |
+| PC 3        | Banda de Miguel - 03 |                       |
+| PC 4        | Banda de Miguel - 04 |                       |
 
 ## Teste de Comunicação
 
